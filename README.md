@@ -6,9 +6,9 @@ Course-BCA(AI&DS)
 
 Subject- Java Programming
 
-Assignment no-1
+Lab Assignment no-4
 
-Project Title -Student Record app
+Project Title -Student Record Management System
 
 Problem Statement:
 
